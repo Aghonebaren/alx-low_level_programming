@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 /**
- * main: entry point of the program
+ * main - entry point of the program
  * @void: no arguments
+ *
  * Description: indicates start of program
  * Return: returns value 0 to the output and exits.
  */
