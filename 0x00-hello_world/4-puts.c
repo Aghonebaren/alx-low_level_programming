@@ -2,6 +2,8 @@
 
 /**
  * main: entry point of the program
+ * void: no arguments
+ * Description: indicates start of program
  * return: returns value 0 to the output and exits.
  */
 
