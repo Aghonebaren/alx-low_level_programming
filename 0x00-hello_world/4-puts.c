@@ -1,7 +1,7 @@
 #include <stdio.h>
 \**
- *main- entry point of the program
- *return- returns 0 to standard output and exits
+ *main - entry point of the program
+ *return - returns 0 to standard output and exits
  */
 
 int main(void)
