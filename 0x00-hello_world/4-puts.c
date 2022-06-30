@@ -1,8 +1,10 @@
 #include <stdio.h>
-\**
-* main is entry_point of the program
-* returns 0 to standard output and exits
-*/
+
+/**
+ * main: entry point of the program
+ * return: returns value 0 to the output and exits.
+ */
+
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
