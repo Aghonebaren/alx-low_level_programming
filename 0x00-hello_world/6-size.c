@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- * main - this program prints the sizes of different types
+ * main - entry point of program
  * @void: no arguments
  *
- * Description: Prints sizes of the types int, char, long int, long long int and float
+ * Description:This program prints the sizes of different types
  * Return: Function returns 0 and exits
  */
 
