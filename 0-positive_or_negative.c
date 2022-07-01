@@ -3,7 +3,9 @@
 #include <stdio.h>
 
 /**
- * main - Prints if number is positive, zero or negative
+ * main - entry point
+ * @void: no arguments
+ * Description: Prints number if positive, negative or zero
  *
  * Return: Always (Success)
  */
