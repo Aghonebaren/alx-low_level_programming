@@ -4,7 +4,7 @@
  *
  *
  *
- * Return: every minute of the day of Jack Bauer
+ * Return: every minute of the day
  */
 void jack_bauer(void)
 {
