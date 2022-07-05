@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _islower - prints only lowercase
- *
+ * @c: test parameter
  * Return: always success
  */
 int _islower(int c)
