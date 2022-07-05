@@ -4,9 +4,9 @@
  * @int: parameter
  * Return: always success
  */
-int print_last_digit(int)
+int print_last_digit(int n)
 {
-	int n;
+	int last;
 	last = n % 10;
 
 	return (last)
