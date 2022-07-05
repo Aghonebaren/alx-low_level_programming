@@ -4,15 +4,15 @@
  * @n: parameter
  * Return: always success
  */
-int print_last_digit(int c)
+int print_last_digit(int n)
 {
-	c = c % 10;
+	n = n % 10;
 
-	if (c < 0)
+	if (n < 0)
 	{
-		c = c * -1;
+		n = n * -1;
 	}
 
-	_putchar('0' + c);
-	return (c);
+	_putchar('0' + n);
+	return (n);
 }
