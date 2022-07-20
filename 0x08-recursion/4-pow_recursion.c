@@ -3,7 +3,8 @@
  * _pow_recursion - returns value of x raised to y
  * @x: the number
  * @y: the superscript
- * return: returns x raised to y
+ *
+ * Return: returns x raised to y
  */
 int _pow_recursion(int x, int y)
 {
