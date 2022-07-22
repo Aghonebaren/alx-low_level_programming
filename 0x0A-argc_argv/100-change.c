@@ -11,9 +11,9 @@
 int main(int argc, char *argv[])
 {
 	int change, i;
-	
+
 	change = 0;
-	
+
 	if (argc == 2)
 	{
 		i = atoi(argv[1]);
