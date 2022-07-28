@@ -10,9 +10,9 @@
 
 void *malloc_checked(unsigned int b)
 {
-	void memalloc = malloc(b);
+	void *memalloc = malloc(b);
 
-	if (memalloc = NULL)
+	if (memalloc == NULL)
 		exit(98);
 
 	return (memalloc);
