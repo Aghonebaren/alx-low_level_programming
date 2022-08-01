@@ -1,1 +1,1 @@
-More pointers, arrays and strings project
+This a set of codes on structures and typedefs in c
