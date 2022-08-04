@@ -14,15 +14,12 @@ int sum_them_all(const unsigned int n, ...)
 	va_list digits;
 	int i, sum;
 
-	if (n == 0)
-		return (0);
-
-	va_start (digits, n);
+	va_start(digits, n);
 
 	for (i = 0; i < n; i++)
-		sum += va_arg (digits, int);
+		sum += va_arg(digits, int);
 
-	va_end (digits);
+	va_end(digits);
 
 	return (sum);
 }
