@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
   *nBits - number of bits to be flipped.

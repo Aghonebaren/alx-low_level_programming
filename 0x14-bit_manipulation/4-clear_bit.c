@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
   * getp - returns value of x to the power of y.
   * @x: number.
